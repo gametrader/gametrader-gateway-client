@@ -1,0 +1,1 @@
+web: java -Dserver.port=$PORT $JAVA_OPTS -jar build/libs/gametrader-gateway-client-0.0.1-SNAPSHOT.jar
